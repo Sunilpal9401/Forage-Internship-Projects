@@ -11,7 +11,7 @@ An Accenture data analysis internship through Forage can provide valuable learni
 
 Technical Skills:
 
-Data Cleaning and Manipulation: You'll gain experience in handling messy real-world data sets, including identifying and correcting errors, transforming data for analysis, and wrangling it into a usable format. https://www.theforage.com/virtual-experience/hzmoNKtzvAzXsEqx8/accenture-north-america/data-analytics-virtual-experience/data-cleaning-modeling
+Data Cleaning and Manipulation: You'll gain experience in handling messy real-world data sets, including identifying and correcting errors, transforming data for analysis, and wrangling it into a usable format. [Accenture Data Analytics and Visualization](https://www.theforage.com/virtual-experience/hzmoNKtzvAzXsEqx8/accenture-north-america/data-analytics-virtual-experience/data-cleaning-modeling)
 
 
 Data Analysis and Modeling: The internship may involve using statistical methods and tools to uncover patterns and trends in the data. You might also build basic models to make predictions or support decision-making.
