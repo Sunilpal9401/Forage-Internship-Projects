@@ -58,5 +58,6 @@ Project Management: You might gain experience with planning, executing, and deli
 Collaboration: Depending on the internship structure, there could be opportunities to collaborate with mentors or other interns, fostering communication and teamwork skills.
 Here are some resources to learn more:
 
-PwC Switzerland Power BI Virtual Case Experience: [PwC Power BI internship](https://www.pwc.ch/en/careers-with-pwc/students/virtual-case-experience.html (This is the specific program offered through Forage)
+PwC Switzerland Power BI Virtual Case Experience: [PwC Power BI internship](https://www.pwc.ch/en/careers-with-pwc/students/virtual-case-experience.html)
+
 Powering Up Data Visualization Skills: Insights from My PwC Switzerland Power BI Virtual Case Internship: [Medium article on learning from a PwC Switzerland Power BI internship] (This article details a personal experience with the internship)
